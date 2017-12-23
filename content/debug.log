@@ -1,0 +1,1 @@
+[23-Dec-2017 16:11:27 UTC] PHP Notice:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /var/www/html/structure_wd_custum/wp/wp-admin/includes/class-theme-upgrader.php on line 122

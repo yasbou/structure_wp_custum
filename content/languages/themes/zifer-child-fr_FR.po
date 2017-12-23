@@ -1,0 +1,128 @@
+# Translation of Themes - Zifer Child in French (France)
+# This file is distributed under the same license as the Themes - Zifer Child package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-27 11:47:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Zifer Child\n"
+
+#. Description of the plugin/theme
+msgid "Zifer Child is a user optimized Photography WordPress Theme built with latest technologies, easy to customize. Use it to create an awesome photography portfolio."
+msgstr "Zifer Child est un thème WordPress optimisé pour la photographie construit avec les dernières technologies et facile à personnaliser. Utilisez-le pour créer un portfolio de photographie impressionnant."
+
+#. Theme Name of the plugin/theme
+msgid "Zifer Child"
+msgstr "Zifer Child"
+
+#: functions.php:507
+msgid "Notification"
+msgstr "Notification"
+
+#: functions.php:498 functions.php:520
+msgid "This child theme is not maintained anymore, consider using the parent theme %1$s or check-out our latest free one-page theme: %2$s."
+msgstr "Ce thème enfant n’est plus maintenu, pensez à utiliser le thème parent %1$s ou découvrez notre dernier thème gratuit en une page : %2$s."
+
+#: sections/latest_news.php:34
+msgid "Latest news"
+msgstr "Dernières nouvelles"
+
+#: sections/category_posts.php:63
+msgid "Select category from \"Custom Category section\""
+msgstr "Sélection de catégorie de \"Section de catégorie personnalsiée\""
+
+#: sections/category_posts.php:15
+msgid "Custom Category"
+msgstr "Catégorie personnalisée"
+
+#: sections/big_title.php:23
+msgid "To add a text here please go to Customizer"
+msgstr "Pour ajouter un texte ici veuillez aller dans la personnalisation"
+
+#: sections/big_title.php:21
+msgid "To add a title here please go to Customizer"
+msgstr "Pour ajouter un titre veuillez aller dans la personnalisation"
+
+#: sections/about.php:28
+msgid "Add a text in Customizer, \"About section\""
+msgstr "Ajoutez un texte dans la section \"À propos\" de la personnalisation"
+
+#: sections/about.php:16
+msgid "About"
+msgstr "A propos"
+
+#: functions.php:467
+msgid "<span class=\"byline\"> by %2$s</span><span class=\"posted-on\"> on %1$s</span><span class=\"category-of\"> in %3$s</span>"
+msgstr "<span class=\"byline\"> par %2$s</span><span class=\"posted-on\"> le %1$s</span><span class=\"category-of\"> dans %3$s</span>"
+
+#: functions.php:387
+msgid "Sidebar"
+msgstr "Colonne latérale"
+
+#: functions.php:374
+msgid "Category"
+msgstr "Cat&eacute;gorie"
+
+#: functions.php:329
+msgid "Featured posts"
+msgstr "Articles mis en avant"
+
+#: functions.php:314
+msgid "Custom category section"
+msgstr "Section de catégorie personnalisée"
+
+#: functions.php:297 functions.php:331
+msgid "Title"
+msgstr "Titre"
+
+#: functions.php:295
+msgid "About the author "
+msgstr "Au sujet de l'auteur"
+
+#: functions.php:278
+msgid "About section"
+msgstr "Section à propos"
+
+#: functions.php:270
+msgid "Blue button link"
+msgstr "Lien de bouton bleu"
+
+#: functions.php:262
+msgid "Blue button label"
+msgstr "Label de bouton bleu"
+
+#: functions.php:260 sections/big_title.php:33
+msgid "First button"
+msgstr "Premier bouton"
+
+#: functions.php:252 functions.php:306
+msgid "Text"
+msgstr "Texte"
+
+#: functions.php:233 functions.php:242
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: content-single.php:32
+msgid "Edit"
+msgstr "Modifier"
+
+#: content-single.php:26
+msgid "Pages:"
+msgstr "Pages&nbsp;:"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/zifer-child/"
+msgstr "https://themeisle.com/themes/zifer-child/"
